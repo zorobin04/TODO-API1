@@ -1,0 +1,6 @@
+@TOD0_API1_HostAddress = http://localhost:5288
+
+GET {{TOD0_API1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
